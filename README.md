@@ -12,6 +12,6 @@ Studi ini membahas bagaimana media sosial mempengaruhi keputusan belanja masyara
 
 📂 **File yang tersedia**  
 - 📄 `Studi-Kasus-Media-Sosial.pdf`  
-- 📝 `Studi-Kasus-Media-Sosial.docx`  
+   
 
 ✨ **Terbuka untuk diskusi & saran!**  
